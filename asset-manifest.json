@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/watchopedia/static/js/main.962a79bd.js",
+    "index.html": "/watchopedia/index.html",
+    "main.962a79bd.js.map": "/watchopedia/static/js/main.962a79bd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.962a79bd.js"
+  ]
+}
